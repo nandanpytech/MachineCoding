@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2.2rem;
+  height: 100vh;
+  overflow-y: scroll;
+}
